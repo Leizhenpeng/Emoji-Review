@@ -1,16 +1,12 @@
 {
   "name": "emoji-review",
-  "displayName": "Emoji Review",
+  "displayName": "Emoji Code Review",
   "version": "0.0.1",
   "description": "Review your pull requests with emojis directly on GitHub.",
   "author": "laolei@frokway.cn",
   "contributors": [
     "leizhenpeng"
   ],
-  "engines": {
-    "npm": ">=7.0.0",
-    "node": ">=16.0.0"
-  },
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
@@ -33,7 +29,7 @@
   },
   "manifest": {
     "host_permissions": [
-      "https://*/*"
+     "https://github.com/*"
     ]
   }
 }

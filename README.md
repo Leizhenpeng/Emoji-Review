@@ -27,7 +27,7 @@ Emoji Review 是一款浏览器插件，辅助用户在Github上简单有趣的�
 |   ⛏️   |   `:pick:`    | 细节很重要，这里可以做得更好！ <br /><br />这不需要任何更改，通常不说更好。这可能包括风格、格式化或组织建议，如果它们真的很重要，应该通过linting来防止/执行。 |
 |   ♻️   |  `:recycle:`  | 重构一下，让代码更简洁高效！ <br /><br />应该包含足够的上下文，使其可操作，不被当作小问题。                                                                   |
 |   🏕   |  `:camping:`  | 这里有个提升空间，可以做得更好！ <br /><br />与你的改变不直接相关，让我们把代码保持得比我们发现时更干净。                                                     |
-|   📌   |  `:pushpin:`  | 这个点子不错，但可能不在我们的计划内。 <br /><br />这是一个《超出范围》的关注点，应该适当地安排后续跟进。                                                     |
+|   📌   |  `:pushpin:`  | 这个点子不错，但可能不在我们的计划内。 <br /><br />这是一个超出范围的关注点，应该适当地安排后续跟进。                                                     |
 |   💡   | `:lightbulb:` | 灵光一闪，有个新点子想分享！ <br /><br />你的代码让我想到了这个新想法。不需要行动，我想和你分享这个想法。                                                     |
 
 #### 示例：
@@ -44,6 +44,7 @@ Emoji Review 是一款浏览器插件，辅助用户在Github上简单有趣的�
 ## 安装指南
 ### Chrome商店
 快来，点这个按钮，让Emoji表情派对在你的Chrome浏览器里开起来：
+[![Install on Chrome](https://img.shields.io/badge/-Install%20on%20Chrome-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/gfoejhpmemdeikpdmcppccgdbikipeoe)
 
 ### 本地安装
 1. 把我们的仓库克隆到你的电脑上。
