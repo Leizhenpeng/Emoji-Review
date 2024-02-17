@@ -3,12 +3,13 @@
 
 ## 简介
 
-为什么程序员不喜欢写 code-review，宁可动手改也不愿意指出来自己的意见？
+为什么现在的程序员不喜欢写 code-review ?
 
-在代码审查中，一点点Emoji就能让过程变得更有趣，让给予和接受代码审查变得更加愉快😃。
+宁可动手改也不愿意指出自己的意见？
 
+一点点 Emoji 就能让在代码审查变得更有趣，让提出和接受代码审查变得更加愉快😃。
 
-Emoji Review 是一款浏览器插件，辅助用户在Github上简单有趣的表达对代码的意见，让代码审查变得像聊天一样有趣。
+Emoji Review 是一款浏览器插件，辅助用户在 Github 上利用 Emoji 简单有趣的表达对代码的意见，让代码审查变得像聊天一样有趣。
 
 ## Emoji Review Guide
 
@@ -43,7 +44,8 @@ Emoji Review 是一款浏览器插件，辅助用户在Github上简单有趣的�
 
 ## 安装指南
 ### Chrome商店
-快来，点这个按钮，让Emoji表情派对在你的Chrome浏览器里开起来：
+快来，点这个按钮，立刻安装到 Chrome 浏览器上
+
 [![Install on Chrome](https://img.shields.io/badge/-Install%20on%20Chrome-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/gfoejhpmemdeikpdmcppccgdbikipeoe)
 
 ### 本地安装
