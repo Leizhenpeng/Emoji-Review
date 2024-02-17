@@ -1,4 +1,5 @@
  # Emoji Code Review
+![效果图](https://github.com/Leizhenpeng/Emoji-Review/assets/50035229/61b4ad2c-6706-4942-88df-d10128c89094)
 
 ## 简介
 
