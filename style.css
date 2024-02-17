@@ -1,0 +1,48 @@
+/* 默认样式（浅色模式） */
+.emoji-container {
+  position: absolute;
+  left: 0;
+  top: 100%;
+  padding: 0.3rem;
+  border-radius: 0.2rem;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: row;
+  z-index: 1000;
+  overflow: hidden;
+  background-color: #f6f8fa;
+  border: 0.1rem solid #d1d5da;
+}
+
+.emoji-button {
+  padding: 0 0.2rem;
+  box-sizing: border-box; /* 包括内边距和边框在元素的总宽度和高度 */
+  border: none;
+  background-color: transparent;
+  color: #24292e;
+  transition: background-color 0.2s ease-in-out;
+  font-size: calc(var(--text-body-size-large, 0.875rem) * 1.1);
+  line-height: 1.22;
+}
+
+.emoji-button:hover {
+  cursor: pointer;
+  background-color: #eff3f6;
+}
+
+/* 媒体查询，用于检测深色模式 */
+@media (prefers-color-scheme: dark) {
+  .emoji-container {
+    background-color: #2f363d;
+    border: 0.1rem solid #21262d;
+    box-shadow: 0 1px 3px 0 rgba(255, 255, 255, 0.1);
+  }
+
+  .emoji-button {
+    color: #c6cbd1;
+  }
+
+  .emoji-button:hover {
+    background-color: #404748;
+  }
+}
