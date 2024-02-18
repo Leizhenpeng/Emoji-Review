@@ -46,7 +46,7 @@ Emoji Review 是一款浏览器插件，辅助用户在 Github 上利用 Emoji �
 ### Chrome商店
 快来，点这个按钮，立刻安装到 Chrome 浏览器上
 
-[![Install on Chrome](https://img.shields.io/badge/-Install%20on%20Chrome-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/gfoejhpmemdeikpdmcppccgdbikipeoe)
+[![Install on Chrome](https://img.shields.io/badge/-Install%20on%20Chrome-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/emoji-code-review/gfoejhpmemdeikpdmcppccgdbikipeoe)
 
 ### 本地安装
 1. 把我们的仓库克隆到你的电脑上。
