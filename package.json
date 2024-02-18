@@ -1,8 +1,8 @@
 {
   "name": "emoji-review",
   "displayName": "Emoji Code Review",
-  "version": "0.0.1",
-  "description": "Review your pull requests with emojis directly on GitHub.",
+  "version": "0.0.2",
+  "description": "辅助开发者在 Github 上利用 Emoji 简单有趣的表达对代码的意见，让代码审查变得像聊天一样有趣。",
   "author": "laolei@frokway.cn",
   "contributors": [
     "leizhenpeng"

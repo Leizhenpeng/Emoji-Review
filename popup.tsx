@@ -21,7 +21,7 @@ function App() {
         <pre>
           了解 Emoji Review 约定，请访问{" "}
           <a
-            href="https://github.com/Leizhenpeng/Emoji-Review/blob/undefined/popup.tsx#L28"
+            href="https://github.com/Leizhenpeng/Emoji-Review?tab=readme-ov-file#emoji%E5%9B%BE%E9%89%B4"
             target="_blank"
             rel="noopener noreferrer">
             Github
