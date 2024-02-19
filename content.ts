@@ -15,13 +15,14 @@ const emojis = [
   { emoji: "🔧", tooltip: "这里得修修，需要改进哦！" },
   { emoji: "❓", tooltip: "我有点迷糊，能解释一下吗？" },
   { emoji: "🤔", tooltip: "我在思考，或者有其他想法可以讨论。" },
-  { emoji: "🌱", tooltip: "这是个好主意，值得一试！" }, // 这里我们用“好主意”来代替“播种”，更直观一些
+  { emoji: "🌱", tooltip: "这是个好主意，值得一试！" },
   { emoji: "📝", tooltip: "这里需要个说明，别忘了哦！" },
   { emoji: "⛏️", tooltip: "细节很重要，这里可以做得更好！" },
   { emoji: "♻️", tooltip: "重构一下，让代码更简洁高效！" },
-  { emoji: "🏕", tooltip: "这里有个提升空间，可以做得更好！" }, // 使用“提升空间”来代替“露营”，更符合代码改进的语境
+  { emoji: "🏕", tooltip: "这里有个提升空间，可以做得更好！" },
   { emoji: "📌", tooltip: "这个点子不错，但可能不在我们的计划内。" },
-  { emoji: "💡", tooltip: "灵光一闪，有个新点子想分享！" }
+  { emoji: "💡", tooltip: "灵光一闪，有个新点子想分享！" },
+  { emoji: "😅", tooltip: "这里可能存在安全问题，请注意！" } 
 ]
 
 function addEmojisToCodeLines() {
